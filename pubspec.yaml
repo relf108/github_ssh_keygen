@@ -1,5 +1,5 @@
 name: github_ssh_keygen
-version: 1.0.8
+version: 1.0.9
 description: A sample command-line application.
 repository: https://github.com/relf108/github_ssh_keygen
 environment: 
