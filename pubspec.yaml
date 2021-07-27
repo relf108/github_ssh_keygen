@@ -1,5 +1,5 @@
 name: github_ssh_keygen
-version: 1.0.4
+version: 1.0.5
 description: A sample command-line application.
 environment: 
   sdk: '>=2.12.0 <3.0.0'

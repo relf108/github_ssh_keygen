@@ -1,5 +1,6 @@
-import 'dart:io';
+#! /usr/bin/env dcli
 
+import 'dart:io';
 import 'package:dcli/dcli.dart';
 
 void main(List<String> arguments) {
